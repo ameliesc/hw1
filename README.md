@@ -10,3 +10,6 @@ where
 - path_to_filename: a path_to_txt_file that contains numbers ot be sorted
 - sorting_alg: is the name of the sorting algorithms to be use
 - num: is a number 
+
+
+Returns the time taken to sort given numbers. 
